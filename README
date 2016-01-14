@@ -1,0 +1,33 @@
+----------------------------CHESS-----------------------------
+
+External Documentation
+
+This program allows two users to play a game of chess
+against each other. 
+
+Go to en.wikipedia.org/wiki/Rules_of_Chess for details on how 
+to play chess.
+
+By clicking on one of the pieces, the user can select the
+piece they wish to move. By clicking the next position the 
+user can select the place that they wish to move their piece.
+If they choose place with the other team's piece placed on it,
+they will capture the piece, and it will appear on the right
+side of the board.If the user selects a position with one of
+their own pieces on it, the new piece will be selected.
+
+When the window is closed the game is saved, and when the 
+program is opened again it will load the previously saved game.
+
+If the user wishes to reset the game they may click the button
+on the top left corner. If they want to change colours, there
+is a drop down menu on the top menu bar.
+
+TO RUN:
+One should be able to run the program by simply clicking on
+the .jar file in the main directory. If this does not work,
+make sure you have the Java runtime environment 7 (JRE7). If
+this does not work try installing the Java development kit 7
+(jdk7). If this does not work, download and install the netbeans
+IDE and copy this folder (Chess/) to NetBeansProjects/ (this 
+should be automatically created by netbeans).
